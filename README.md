@@ -1,2 +1,8 @@
-# isia-2020-observe
-Observe - Interface design 2 - A.A. 2019-2020 @ISIA Urbino
+# isia-observe
+
+Observe - Interface design 2 - ISIA Urbino
+
+This repository contains the images needed for the first exercise.
+You can find the result here:
+
+[my title](https://google.com)
